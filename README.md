@@ -2,35 +2,28 @@
 
 **Student Email:** 23f3004065@ds.study.iitm.ac.in
 
-## Project Description
-Correlation analysis of supply chain metrics for OptimalFlow Logistics automotive manufacturer client.
-
-## Dataset
-77 procurement transactions with 5 key metrics:
-- Supplier_Lead_Time
-- Inventory_Levels  
-- Order_Frequency
-- Delivery_Performance
-- Cost_Per_Unit
-
 ## Files
-- `correlation.csv` - Correlation matrix values
-- `heatmap.png` - Excel-style conditional formatting heatmap (Red-White-Green)
+- correlation.csv - Correlation matrix values
+- heatmap.png - Excel/Google Sheets conditional formatting heatmap
 ```
 
-Click **Commit new file**
+## Next Steps:
 
-## Step 4: Upload Files
+1. **Go back to Google Sheets**
+2. **Paste your correlation values** (the ones you just showed me)
+3. **Apply Red-White-Green conditional formatting** to cells B2:F6
+4. **Take screenshot**
+5. **Resize to exactly 512x512 pixels**
+6. **Save as heatmap.png**
 
-1. Click **"Add file"** → **"Upload files"**
-2. Drag `correlation.csv` 
-3. Commit changes
-4. Repeat for `heatmap.png`
+## Then Check Your GitHub:
 
-## Step 5: Get Raw URL
+- All 3 files in **root folder** (not in subfolders)
+- File names are **exact**: `README.md`, `correlation.csv`, `heatmap.png`
+- Repository is **PUBLIC**
 
-1. Click on `README.md`
-2. Click **"Raw"** button
-3. Copy URL (should be): 
+## Submit:
+
+Get the **raw URL** of README.md:
 ```
-   https://raw.githubusercontent.com/YOUR_USERNAME/supply-chain-correlation/main/README.md
+https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/README.md
